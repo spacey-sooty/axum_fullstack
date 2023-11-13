@@ -1,0 +1,9 @@
+h1 {
+  text-align: center;
+  font-size: 2.75rem;
+  font-family: "Arial";
+}
+
+h1:hover {
+  font-size: 3rem;
+}
